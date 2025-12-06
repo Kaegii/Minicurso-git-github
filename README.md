@@ -1,3 +1,1 @@
-MINICURSO GIT E GITHUB
-
-My full name is Vitor Dias Oliveira
+Por que estou aprendendo ou me aperfeiçoando em git e github? 
