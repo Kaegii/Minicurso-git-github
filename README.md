@@ -1,3 +1,8 @@
+# Esther Lopes Serqueira
+
+"Por que vocês estão aprendendo GIT?"
+por que é uma ferramenta essencial para o trabalho 
+
 # Gurilherme de Oliveira Takeuti
 
 Estou aprendendo git para poder trabalhar na área
