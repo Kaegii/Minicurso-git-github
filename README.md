@@ -1,3 +1,7 @@
+# Artur Mariano Ribeiro 
+
+Estou no minicurso de git e github para poder ter uma base das ferramentas do mercado, enriquecer meu curriculo e aprender coisas novas.
+
 # Vitor Dias Oliveira
 Por que estou aprendendo ou me aperfeiçoando em git e github? 
 =============================================================
