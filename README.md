@@ -2,6 +2,10 @@
 
 para aprender e entender git e github
 
+# Santiago Vitor Santos do Carmo
+
+Estou aprendendo git pois é uma ferramenta muito utilzada no mercado
+
 # Esther Lopes Serqueira
 
 "Por que vocês estão aprendendo GIT?"
